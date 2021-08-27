@@ -1,0 +1,13 @@
+C:\Users\erick\source\repos\MiPrimerPrograma\MiPrimerPrograma\bin\Debug\netcoreapp3.1\MiPrimerPrograma.exe
+C:\Users\erick\source\repos\MiPrimerPrograma\MiPrimerPrograma\bin\Debug\netcoreapp3.1\MiPrimerPrograma.deps.json
+C:\Users\erick\source\repos\MiPrimerPrograma\MiPrimerPrograma\bin\Debug\netcoreapp3.1\MiPrimerPrograma.runtimeconfig.json
+C:\Users\erick\source\repos\MiPrimerPrograma\MiPrimerPrograma\bin\Debug\netcoreapp3.1\MiPrimerPrograma.runtimeconfig.dev.json
+C:\Users\erick\source\repos\MiPrimerPrograma\MiPrimerPrograma\bin\Debug\netcoreapp3.1\MiPrimerPrograma.dll
+C:\Users\erick\source\repos\MiPrimerPrograma\MiPrimerPrograma\bin\Debug\netcoreapp3.1\MiPrimerPrograma.pdb
+C:\Users\erick\source\repos\MiPrimerPrograma\MiPrimerPrograma\obj\Debug\netcoreapp3.1\MiPrimerPrograma.csprojAssemblyReference.cache
+C:\Users\erick\source\repos\MiPrimerPrograma\MiPrimerPrograma\obj\Debug\netcoreapp3.1\MiPrimerPrograma.AssemblyInfoInputs.cache
+C:\Users\erick\source\repos\MiPrimerPrograma\MiPrimerPrograma\obj\Debug\netcoreapp3.1\MiPrimerPrograma.AssemblyInfo.cs
+C:\Users\erick\source\repos\MiPrimerPrograma\MiPrimerPrograma\obj\Debug\netcoreapp3.1\MiPrimerPrograma.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\MiPrimerPrograma\MiPrimerPrograma\obj\Debug\netcoreapp3.1\MiPrimerPrograma.dll
+C:\Users\erick\source\repos\MiPrimerPrograma\MiPrimerPrograma\obj\Debug\netcoreapp3.1\MiPrimerPrograma.pdb
+C:\Users\erick\source\repos\MiPrimerPrograma\MiPrimerPrograma\obj\Debug\netcoreapp3.1\MiPrimerPrograma.genruntimeconfig.cache
